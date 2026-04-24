@@ -36,7 +36,7 @@ public class Main {
             }
             // nombre d essaie restant
             essaisRestants--;
-            System.out.println("Essais restants : " + essaisRestants + "\n");
+
         }
             // affichage du nombre aleatoire et message d echec
         if (!gagne) {
