@@ -36,7 +36,6 @@ public class Main {
             }
             // decrementation du nombre d essai
             essaisRestants--;
-
         }
             // affichage du nombre aleatoire et message d echec
         if (!gagne) {
