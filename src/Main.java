@@ -34,7 +34,7 @@ public class Main {
                 gagne = true;
                 break;
             }
-            // nombre d essaie restant
+            // decrementation du nombre d essai
             essaisRestants--;
 
         }
